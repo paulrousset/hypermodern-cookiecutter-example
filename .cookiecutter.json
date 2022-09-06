@@ -1,0 +1,14 @@
+{
+  "_output_dir": "C:\\Users\\paulr\\Documents\\Data_Science",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Paul Rousset",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "paulrousset@hotmail.fr",
+  "friendly_name": "Hypermodern Cookiecutter Example",
+  "github_user": "paulrousset",
+  "license": "MIT",
+  "package_name": "hypermodern_cookiecutter_example",
+  "project_name": "hypermodern-cookiecutter-example",
+  "version": "0.0.0"
+}
