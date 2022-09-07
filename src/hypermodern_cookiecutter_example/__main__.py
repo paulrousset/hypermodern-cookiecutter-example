@@ -7,7 +7,7 @@ import click
 def main() -> None:
     """Hypermodern Cookiecutter Example."""
     print("Hello World")
-    print("This is an example of hypermodern package")
+    print("This is an example of hypermodern package - release 0.0.2")
 
 
 if __name__ == "__main__":
