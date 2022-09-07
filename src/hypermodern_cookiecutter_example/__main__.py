@@ -6,6 +6,8 @@ import click
 @click.version_option()
 def main() -> None:
     """Hypermodern Cookiecutter Example."""
+    print("Hello World")
+    print("This is an example of hypermodern package")
 
 
 if __name__ == "__main__":

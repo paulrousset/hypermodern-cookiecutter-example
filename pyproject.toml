@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hypermodern-cookiecutter-example"
-version = "0.0.0"
+version = "0.0.1"
 description = "Hypermodern Cookiecutter Example"
 authors = ["Paul Rousset <paulrousset@hotmail.fr>"]
 license = "MIT"
